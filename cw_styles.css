@@ -127,7 +127,7 @@
 	Tablet and Desktop Devices: 481px or more 
    ============================================
  */
-/* This makes only the desktop or tablet mode have these styles. These styles make seeral flex boxes like the top nav and the body. This changes the sizes, growth rat, and shrink rate of several items as well. This centers the tonav as well as changes ing its color and makeing the telephone and email link disapear. */
+/* This makes only the desktop or tablet mode have these styles. These styles make seeral flex boxes like the top nav and the body. This changes the sizes, growth rat, and shrink rate of several items as well. This centers the tonav as well as changes ing its color and makeing the telephone and email link disapear */
 @media only screen and (min-width:481px) {
     body {
         display: -webkit-flex;
